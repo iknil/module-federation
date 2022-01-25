@@ -1,0 +1,14 @@
+{
+  "name": "module-federation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iknil <lk.nil@outlook.com>",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}

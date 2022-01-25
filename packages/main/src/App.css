@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+  color: white;
+  overflow: auto;
+}
+
+.App-header {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-container {
+
+}
+
+.Encrypt-item {
+  width: 100%;
+  margin: 8px 0;
+  padding: 8px 0;
+  background-color: rgba(83, 100, 215, 0.2);
+}
+
+.Encrypt-item-header {
+  margin: 12px 0;
+}
+
+.Encrypt-item-body {
+  margin: 12px 0;
+  align-content: space-between;
+}
+
+.Encrypt-item-footer {
+  margin: 12px 0;
+  align-content: space-between;
+}
